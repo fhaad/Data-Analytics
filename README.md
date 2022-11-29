@@ -12,12 +12,27 @@
 #  TAREAS DE UN DATA ANALYST![image](https://user-images.githubusercontent.com/4399520/204429699-d4271d40-8a59-4490-8104-fb9ee0e5888c.png)
 
 # Trabajar con equipos de tecnología, administración y/o data scientists para establecer metas.
-Minería de datos de fuentes primarias y secundarias
-Limpieza y disección de datos
-Analizar e interpretar resultados utilizando herramientas y técnicas estadísticas
-Identificar tendencias y patrones en conjuntos de datos
-Identificar nuevas oportunidades para la mejora de procesos.
-Proporcionar informes de datos para la gestión.
-Diseñar, crear y mantener bases de datos y sistemas de datos.
-Solucionar problemas de código y problemas relacionados con los datos
-![image](https://user-images.githubusercontent.com/4399520/204429741-37ce3146-7319-4b2e-afdd-a7e374cb2b52.png)
+#  Minería de datos de fuentes primarias y secundarias
+![image](https://user-images.githubusercontent.com/4399520/204429971-bc07f538-7b1a-4de7-b391-315a9dc6ee66.png)
+
+#  Limpieza y disección de datos
+![image](https://user-images.githubusercontent.com/4399520/204430005-68d9ef95-88d9-4103-bbf9-1d6eb4fd9e85.png)
+
+# Analizar e interpretar resultados utilizando herramientas y técnicas estadísticas
+![image](https://user-images.githubusercontent.com/4399520/204430079-af0f5b9c-95a3-4888-b80c-c4ff6a3d701b.png)
+#  Identificar tendencias y patrones en conjuntos de datos
+![image](https://user-images.githubusercontent.com/4399520/204430114-eb6454be-3fd1-4122-9ae5-b52937da3891.png)
+#  Identificar nuevas oportunidades para la mejora de procesos![image](https://user-images.githubusercontent.com/4399520/204430135-da5fd9e0-3b6c-4fc4-974f-5948e7358b11.png)
+#  Proporcionar informes de datos para la gestión![image](https://user-images.githubusercontent.com/4399520/204430158-7bc53f08-c14f-4047-ad7c-a779c74f59a2.png)
+#  Diseñar, crear y mantener bases de datos y sistemas de datos![image](https://user-images.githubusercontent.com/4399520/204430185-3b021394-7ea3-4b29-96ad-332380078c05.png)
+#  Solucionar problemas de código y problemas relacionados con los datos
+![image](https://user-images.githubusercontent.com/4399520/204430206-9f4c2cff-918c-4f51-829f-953da1d20a57.png)
+
+#
+#
+#
+#
+#
+#
+#
+#
